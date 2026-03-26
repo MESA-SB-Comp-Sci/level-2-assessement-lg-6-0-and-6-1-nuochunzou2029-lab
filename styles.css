@@ -1,4 +1,36 @@
-* {
-    box-sizing: border-box;
+
+html{
+    background-color: rgb(94, 93, 93);
 }
 
+h1{
+    background-color: pink;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.p1 {
+    color:orange;
+}
+
+.p2{
+    color: rgb(31, 247, 31);
+}
+
+.p3{
+    color: lightblue;
+    margin: 30px;
+}
+
+.border1{
+    background-color: white;
+    border: 5px solid orange;
+    padding-bottom: 40px;
+    box-sizing:border-box;
+    margin-right: 100px;
+}
+
+#eyedee {
+    color:white;
+}
